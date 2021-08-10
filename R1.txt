@@ -1,0 +1,4 @@
+conf t
+int gig 0/1
+no sh	
+ip add
